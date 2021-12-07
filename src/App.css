@@ -1,0 +1,39 @@
+.uniswap_logo_button{
+    max-width: 38px;
+    margin-right: 17px;
+}
+
+.pancake_logo_button{
+    max-width: 38px;
+    margin-right: 17px;
+}
+
+.button-group .btn-bordered-white{
+    margin-bottom: 7px;
+}
+
+.btn-group .btn-secondary{
+    width: 25%;
+    padding: 20px 0px;
+}
+
+.btn-group, .btn-group-vertical {
+    display: flex;
+}
+
+.nav-item .btn-bordered-white{
+    white-space: nowrap; 
+    width: 250px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.chain-image{
+    width: 83px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.availableBalance{
+    color: #02ef6c;
+}
